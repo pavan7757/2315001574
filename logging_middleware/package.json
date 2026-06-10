@@ -1,0 +1,13 @@
+{
+  "name": "affordmed-stage1",
+  "version": "1.0.0",
+  "description": "Stage 1 priority notifications script for Affordmed campus notification assessment.",
+  "main": "priority_notifications.js",
+  "scripts": {
+    "start": "node priority_notifications.js"
+  },
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  }
+}
